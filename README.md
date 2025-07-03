@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/Status-Pasted-red?style=for-the-badge&logo=ghost" alt="Status"/>
   <img src="https://img.shields.io/badge/C%2B%2B-Modern-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/TF2-Client-orange?style=for-the-badge&logo=steam" alt="TF2"/>
+  <img src="https://img.shields.io/badge/Origin-Seonwed-blue?style=for-the-badge&logo=github" alt="Seonwed"/>
 </p>
 
 ---
@@ -19,8 +20,9 @@ public class MES {
     private String status = "#PASTED";
     private String language = "C++";
     private String game = "Team Fortress 2";
+    private String origin = "Seonwed Cheat";
 
     public void inject() {
-        System.out.println("TF2 paste initialized.");
+        System.out.println("TF2 paste initialized. Inspired by Seonwed.");
     }
 }
