@@ -1,21 +1,20 @@
-<p align="center" style="font-family: 'JetBrains Mono', monospace; font-weight: 900; font-size: 4rem; letter-spacing: -0.05em; color: #00BFFF;">
-  <span style="color: #FF4500;">#</span>mes
-</p>
-
-<p align="center" style="font-style: italic; color: #888;">
+<h1 align="center" style="font-weight: 900; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  <span style="background: linear-gradient(90deg, #4b6cb7 0%, #182848 100%);
+  -webkit-background-clip: text; color: transparent;">#mes</span>
+</h1>
+<p align="center" style="font-style: italic; color: #888; font-size: 1.1rem;">
   Not your average TF2 paste.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Pasted-red?style=for-the-badge&logo=ghost" alt="Status: Pasted"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-Modern-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Modern"/>
-  <img src="https://img.shields.io/badge/TF2-Client-orange?style=for-the-badge&logo=steam" alt="TF2 Client"/>
+  <img src="https://img.shields.io/badge/Status-Pasted-red?style=for-the-badge&logo=ghost" alt="Status"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-Modern-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/TF2-Client-orange?style=for-the-badge&logo=steam" alt="TF2"/>
 </p>
-
 
 ---
 
-java
+```java
 public class MES {
     private String status = "#PASTED";
     private String language = "C++";
