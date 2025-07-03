@@ -1,6 +1,6 @@
 <h1 align="center">#mes</h1>
 <p align="center">
-  <i>Not your average TF2 software.</i>
+  <i>Not your average TF2 paste.</i>
 </p>
 
 <p align="center">
@@ -18,6 +18,6 @@ public class MES {
     private String game = "Team Fortress 2";
 
     public void inject() {
-        System.out.println("TF2 domination initialized.");
+        System.out.println("TF2 paste initialized.");
     }
 }
