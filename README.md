@@ -10,7 +10,9 @@
   <img src="https://img.shields.io/badge/Status-Pasted-red?style=for-the-badge&logo=ghost" alt="Status"/>
   <img src="https://img.shields.io/badge/C%2B%2B-Modern-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/TF2-Client-orange?style=for-the-badge&logo=steam" alt="TF2"/>
-  <img src="https://img.shields.io/badge/Origin-Seonwed-blue?style=for-the-badge&logo=github" alt="Seonwed"/>
+  <a href="https://www.unknowncheats.me/forum/team-fortress-2-a/436430-seowned-featured-cheat.html" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Origin-SEOwned-blue?style=for-the-badge&logo=github" alt="SEOwned"/>
+  </a>
 </p>
 
 ---
@@ -20,9 +22,9 @@ public class MES {
     private String status = "#PASTED";
     private String language = "C++";
     private String game = "Team Fortress 2";
-    private String origin = "Seonwed Cheat";
+    private String origin = "SEOwned";
 
     public void inject() {
-        System.out.println("TF2 paste initialized. Inspired by Seonwed.");
+        System.out.println("TF2 paste initialized.");
     }
 }
