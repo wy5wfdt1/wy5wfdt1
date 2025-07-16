@@ -1,6 +1,6 @@
 <h1 align="center" style="font-weight: 900; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
   <span style="background: linear-gradient(90deg, #00c6ff 0%, #0072ff 100%);
-  -webkit-background-clip: text; color: transparent;">Meshed</span>
+  -webkit-background-clip: text; color: transparent;">SEO64</span>
 </h1>
 
 <p align="center">
