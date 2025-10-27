@@ -10,7 +10,7 @@
   text-transform: uppercase;
   margin-bottom: 0.5em;
 ">
-  PROJECT
+  Hello
 </h1>
 
 <p align="center">
