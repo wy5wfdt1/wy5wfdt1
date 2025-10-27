@@ -1,30 +1,20 @@
-<!-- Banner -->
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KubaDev/ProAI/main/assets/banner.png" alt="Banner" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api?username=wy5wfdt1&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
 
-<!-- Badges -->
 <p align="center">
-  <img src="https://img.shields.io/github/stars/KubaDev/ProAI?style=flat-square&color=yellow" />
-  <img src="https://img.shields.io/github/forks/KubaDev/ProAI?style=flat-square&color=orange" />
-  <img src="https://img.shields.io/github/license/KubaDev/ProAI?style=flat-square&color=blue" />
-  <img src="https://img.shields.io/github/last-commit/KubaDev/ProAI?style=flat-square&color=green" />
+  <img src="https://streak-stats.demolab.com?user=wy5wfdt1&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<!-- Preview -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KubaDev/ProAI/main/assets/preview.gif" alt="Preview" width="85%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wy5wfdt1&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
-<!-- Divider -->
-<p align="center">⋯</p>
-
-<!-- Tech Icons -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,python,rust,lua" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wy5wfdt1&theme=radical&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
-<!-- Footer -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KubaDev/ProAI/main/assets/footer.svg" width="60%">
+  <img src="https://komarev.com/ghpvc/?username=wy5wfdt1&style=flat-square&color=ff0055" alt="Profile Views" />
 </p>
