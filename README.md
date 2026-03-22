@@ -1,20 +1,11 @@
+# Welcome.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wy5wfdt1&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
+---
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=wy5wfdt1&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=wy5wfdt1&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=999999&bg_color=00000000" width="400" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wy5wfdt1&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wy5wfdt1&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=999999&bg_color=00000000" width="300" />
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wy5wfdt1&theme=radical&hide_border=true&area=true" alt="Activity Graph" />
-</p>
+---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wy5wfdt1&style=flat-square&color=ff0055" alt="Profile Views" />
-</p>
+[Website](https://yourwebsite.com) / [LinkedIn](https://linkedin.com) / [Email](mailto:hello@domain.com)
