@@ -4,7 +4,7 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://graph.fasu.dev/graph?user=wy5wfdt1&theme=github-dark&hide_border=true&area=true&custom_title=faloogus" width="100%" />
+  <img src="https://graph.fasu.dev/graph?user=wy5wfdt1&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&custom_title=faloogus" width="100%" />
 </div>
 <br>
 <div align="center">
