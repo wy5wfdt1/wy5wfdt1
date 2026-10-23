@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wy5wfdt1&theme=github-dark&bg_color=0d1117&color=8b949e&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wy5wfdt1&theme=github-dark&hide_border=true&area=true&custom_title=faloogus" width="100%" />
 </div>
 
 <br>
